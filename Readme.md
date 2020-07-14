@@ -1,4 +1,4 @@
-#Infinite Terminal
+# Running Infinite Terminal
 
 * When You Open This Bash File , Infinite Terminal Will Run which in turn will make your linux freeze .
 
