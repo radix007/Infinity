@@ -15,7 +15,7 @@
   - guake
   - terminator
 
-- Make sure that you add **&** after the name of the terminal emulator. For instance, if the name of your emulator is **konsole** then replace it with **konsole&**.
+> Make sure that you add **&** after the name of the terminal emulator. For instance, if the name of your emulator is **konsole** then replace it with **konsole&**.
 
 # Command to execute the attack ::
 
