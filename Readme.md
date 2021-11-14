@@ -2,7 +2,7 @@
 
 - When you open this bash file, infinite terminals will run, which in turn will freeze your system and make it unresponsive.
 
-- I am working on a way to embed this script inside a pdf or any other file extension. This will help make any system unresponsive.
+- I am working on a way to embed this script inside a pdf or any other file extension. This will in turn make any system unresponsive.
 
 - You can also check out the top (task manager in linux) log output file.
 
