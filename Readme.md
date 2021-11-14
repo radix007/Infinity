@@ -15,7 +15,7 @@
   - guake
   - terminator
 
-> Make sure that you add **&** after the name of the terminal emulator. For instance, if the name of your emulator is **konsole** then replace it with **konsole&**.
+> Make sure that you add **"&"** after the name of the terminal emulator. For instance, if the name of your emulator is **"konsole"** then replace it with **"konsole&"**.
 
 # Command to execute the attack ::
 
@@ -23,7 +23,7 @@
 ./infiniteterminal.sh
 ```
 
-> Please make sure you save any work before executing this command, as your system will become unresponsive and you will have to reboot your system. This in turn will lead to the loss of data. I am not responsible for any loss of data.
+> Please make sure you save any work before executing this command, as your system will become unresponsive and you will have to reboot your system. This in turn will lead to the loss of data. I am not responsible for any loss of data or damage to the system.
 
 # Overload in action ::
 
@@ -37,4 +37,4 @@
 
 # Contributing ::
 
-- Please check out the CONTRIBUTING.md guide on how you can actively participate in the development of this side project of mine.
+- Please check out the [Contributing.md](Contributing.md) guide on how you can actively participate in the development of this side project of mine.
