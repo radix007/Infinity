@@ -4,6 +4,8 @@
 
 - I am working on a way to embed this script inside a pdf or any other file extension. This will help make any system unresponsive.
 
+- You can also check out the top (task manager in linux) log output file.
+
 # Instructions ::
 
 - You can change the terminal emulator name accordingly.
@@ -34,6 +36,8 @@
 ### After running the script ::
 
 ![After running the script](Media/after.png)
+
+![top output first 10 lines](Media/top_output.png)
 
 # Contributing ::
 
